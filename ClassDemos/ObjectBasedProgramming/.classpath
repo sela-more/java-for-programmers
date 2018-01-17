@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Basics/PhoneBookExample"/>
+	<classpathentry kind="src" path="DogExamples"/>
+	<classpathentry kind="src" path="justInners"/>
+	<classpathentry kind="src" path="Packages"/>
+	<classpathentry kind="src" path="Static"/>
+	<classpathentry kind="src" path="this"/>
+	<classpathentry kind="src" path="Ctor"/>
+	<classpathentry kind="src" path="Memory"/>
+	<classpathentry excluding="PhoneBookExample/" kind="src" path="EmployeeWithAccessControl"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
